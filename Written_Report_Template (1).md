@@ -21,10 +21,10 @@ The purpose of this analysis is to provide some information on what makes a succ
 - What are two conclusions you can draw about the Outcomes based on Launch Date? 
 The first conclusion that I can make based on the Launch date is that theaters kickstarters generally do better in the summertime than any other month, most likely due to school being out and families having more opportunities to watch theater. We can also conclude that launch date does not have a significant impact on whether a kickstarter is canceled or fails since there are no significant changes on the graph with respect to those aspects. This leads us to believe there must be another driving force behind to what influences a failed or canceled theater kickstarter.
 
-- What can you conclude about the Outcomes based on Goals?
+### What can you conclude about the Outcomes based on Goals?
 - What we can conclude about outcome based purely on goals is that a play kickstarter is more likely to succeed if it has a lower set goal versus if it has a higher one. However, we there seems to be a sweet spot when it comes to making a good kickstarter. We can see from the 35000 to 44999 range that they have high success rates with it suddenly dropping off beyond that point. We can conclude if one wants to create a successful kickstarter they should either have a small goal or have a goal between 35000 to 44999.
-- What are some limitations of this dataset? 
+### What are some limitations of this dataset? 
 - I think the biggest limitation of this dataset is the lack of information behind goal. The goal could either simply be set by a company or person or have some significance such as meeting a budget or personal desire. A kickstarter is labeled as successful or a failure by comparing the goal and pledged aspect. We fail to consider the budget of each kickstarter. For example, a theater/play kickstarter could be labeled as a success for having a goal of 1000, making 1100, but taking 2000 to create. We are also comparing many different forms of currency which could cause a problem unless they are all standardized to a single form of currency.
 
-- What are some other possible tables and/or graphs that we could create?
+### What are some other possible tables and/or graphs that we could create?
 - Some tables that could be useful to make are tables that spotlight one specific country to easily look at the data in those areas easily. This way we can also see which countries like which forms of entertainment. I also think creating a table or graph to compare the launch dates with their deadlines while comparing their outcome could also be useful in seeing if there is a trend between those aspects.
